@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Claudia Élez.</h1>
-- 🌱 I’m currently studying **a Robotics Software Degree (URJC).**
+
+- 🌱 I’m currently studying a Robotics Software Degree (URJC).
 
 - 📫 How to reach me **claudiaelezzm@gmail.com**
 
