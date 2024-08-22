@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Claudia Élez.</h1>
+<h1>Hi, I'm Claudia Élez.</h1>
 
 - 🌱 I’m currently studying a Robotics Software Degree (URJC).
 
